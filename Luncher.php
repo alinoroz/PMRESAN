@@ -1,6 +1,6 @@
 <?php
 
-define('BOT_TOKEN', '272582673:AAGuvowgNHZmWVspLr_MNIDDZuvKsBMLQcQ');
+define('BOT_TOKEN', '262292917:AAGKL9HgpB1PNGN81kjq4TnsYuljbxYUDCk');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 function apiRequestWebhook($method, $parameters) {
@@ -132,7 +132,7 @@ function processMessage($message) {
 `123456789:ABCDE1FGHIJ5KLMNO5PQRS`
 
 
-به ربات ما امتیاز بدید  👈        [⭐️PvResan⭐️](https://telegram.me/storebot?start=pvresanbot)
+به ربات ما امتیاز بدید  👈        [⭐️PvResan⭐️](https://telegram.me/storebot?start=jksufhgadkjg_bot)
 
 🔹هر نفر = یک ربات ✖️
 🔸ربات دوم = 5000ت ✔️
